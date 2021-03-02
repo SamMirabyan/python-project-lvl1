@@ -1,4 +1,4 @@
-python-project-lvl1/**/*.pyc
-venv
+*.pyc
+.venv/
 __pycache__
-dist
+dist/
