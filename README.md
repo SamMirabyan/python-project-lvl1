@@ -7,5 +7,8 @@
 ### GitHub Actions linter workflow
 ![linter workflow](https://github.com/SamMirabyan/python-project-lvl1/actions/workflows/linter.yml/badge.svg)
 
-### Asciinema video for brain_even script.
+### Asciinema video for brain_even script
 https://asciinema.org/a/WBv4nrRWgeGgIpyTBunxXbCHo
+
+### Asciinema video for brain_calc script
+https://asciinema.org/a/HlJh1kmuYkzcpmVqvo3oU11AQ
