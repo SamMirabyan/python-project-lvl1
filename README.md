@@ -10,5 +10,5 @@
 ### Asciinema video for brain_even script
 https://asciinema.org/a/WBv4nrRWgeGgIpyTBunxXbCHo
 
-### Asciinema video for brain_calc script
-https://asciinema.org/a/HlJh1kmuYkzcpmVqvo3oU11AQ
+### Asciinema video for brain-calc game
+[![asciicast](https://asciinema.org/a/u0OdWum8sc5PwtaSfdEQadUV5.svg)](https://asciinema.org/a/u0OdWum8sc5PwtaSfdEQadUV5)
