@@ -12,3 +12,6 @@ https://asciinema.org/a/WBv4nrRWgeGgIpyTBunxXbCHo
 
 ### Asciinema video for brain-calc game
 [![asciicast](https://asciinema.org/a/u0OdWum8sc5PwtaSfdEQadUV5.svg)](https://asciinema.org/a/u0OdWum8sc5PwtaSfdEQadUV5)
+
+### Asciinema video for brain-gcd game
+[![asciicast](https://asciinema.org/a/WXiKyO6YD7T4jDuTUUcpMcHXc.svg)](https://asciinema.org/a/WXiKyO6YD7T4jDuTUUcpMcHXc)
