@@ -1,3 +1,5 @@
+import prompt
+
 MAX_POINTS = 3
 
 
@@ -7,7 +9,7 @@ def is_correct(correct_answer, user_answer):
 
 def run_game(game):
     print('Welcome to the Brain Games!')
-    user_name = input('May I have your name? ').title()
+    user_name = prompt.string('May I have your name? ').title()
     print(f"Hello, {user_name}!")
     print(game.GAME_DESCRIPTION)
     user_points = 0
