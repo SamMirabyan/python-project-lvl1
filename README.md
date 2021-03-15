@@ -15,3 +15,6 @@ https://asciinema.org/a/WBv4nrRWgeGgIpyTBunxXbCHo
 
 ### Asciinema video for brain-gcd game
 [![asciicast](https://asciinema.org/a/WXiKyO6YD7T4jDuTUUcpMcHXc.svg)](https://asciinema.org/a/WXiKyO6YD7T4jDuTUUcpMcHXc)
+
+### Asciinema video for brain-progression game
+[![asciicast](https://asciinema.org/a/4Q1VLKr1qBqc2aVwC2j4qlq54.svg)](https://asciinema.org/a/4Q1VLKr1qBqc2aVwC2j4qlq54)
