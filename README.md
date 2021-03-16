@@ -18,3 +18,6 @@ https://asciinema.org/a/WBv4nrRWgeGgIpyTBunxXbCHo
 
 ### Asciinema video for brain-progression game
 [![asciicast](https://asciinema.org/a/4Q1VLKr1qBqc2aVwC2j4qlq54.svg)](https://asciinema.org/a/4Q1VLKr1qBqc2aVwC2j4qlq54)
+
+### Asciinema video for brain-prime game
+[![asciicast](https://asciinema.org/a/8thG5dtoxRv4Ga8MVuG24ugKy.svg)](https://asciinema.org/a/8thG5dtoxRv4Ga8MVuG24ugKy)
