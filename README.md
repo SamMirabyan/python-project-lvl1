@@ -7,8 +7,8 @@
 ### GitHub Actions linter workflow
 ![linter workflow](https://github.com/SamMirabyan/python-project-lvl1/actions/workflows/linter.yml/badge.svg)
 
-### Asciinema video for brain_even script
-https://asciinema.org/a/WBv4nrRWgeGgIpyTBunxXbCHo
+### Asciinema video for brain-even game
+[![asciicast](https://asciinema.org/a/aI3gzPxq4uqtBXQUUq47OFjHb.svg)](https://asciinema.org/a/aI3gzPxq4uqtBXQUUq47OFjHb)
 
 ### Asciinema video for brain-calc game
 [![asciicast](https://asciinema.org/a/u0OdWum8sc5PwtaSfdEQadUV5.svg)](https://asciinema.org/a/u0OdWum8sc5PwtaSfdEQadUV5)
