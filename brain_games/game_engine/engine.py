@@ -22,7 +22,7 @@ def run_game(game):
             continue
         else:
             print((f"'{user_answer}' is wrong answer ;(. Correct answer"
-                  f" was '{correct_answer}'.\nLet's try again {user_name}!"))
+                  f" was '{correct_answer}'.\nLet's try again, {user_name}!"))
             break
     if user_points == 3:
         print(f'Congratulations, {user_name}!')
